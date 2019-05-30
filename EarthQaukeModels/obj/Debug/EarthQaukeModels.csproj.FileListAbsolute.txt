@@ -1,0 +1,9 @@
+c:\users\джабашевн.corp\source\repos\EarthQuakeControlWork\EarthQaukeModels\bin\Debug\EarthQaukeModels.dll
+c:\users\джабашевн.corp\source\repos\EarthQuakeControlWork\EarthQaukeModels\bin\Debug\EarthQaukeModels.pdb
+c:\users\джабашевн.corp\source\repos\EarthQuakeControlWork\EarthQaukeModels\bin\Debug\Newtonsoft.Json.dll
+c:\users\джабашевн.corp\source\repos\EarthQuakeControlWork\EarthQaukeModels\bin\Debug\Newtonsoft.Json.xml
+c:\users\джабашевн.corp\source\repos\EarthQuakeControlWork\EarthQaukeModels\obj\Debug\EarthQaukeModels.csproj.CoreCompileInputs.cache
+c:\users\джабашевн.corp\source\repos\EarthQuakeControlWork\EarthQaukeModels\obj\Debug\EarthQaukeModels.csproj.CopyComplete
+c:\users\джабашевн.corp\source\repos\EarthQuakeControlWork\EarthQaukeModels\obj\Debug\EarthQaukeModels.dll
+c:\users\джабашевн.corp\source\repos\EarthQuakeControlWork\EarthQaukeModels\obj\Debug\EarthQaukeModels.pdb
+c:\users\джабашевн.corp\source\repos\EarthQuakeControlWork\EarthQaukeModels\obj\Debug\EarthQaukeModels.csprojAssemblyReference.cache
